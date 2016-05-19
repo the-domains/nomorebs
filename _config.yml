@@ -1,7 +1,7 @@
 name: nomorebs
 favicon: null
-layout_spectrum: 0.19183739670552313
-typography_spectrum: 0.8686932960990816
+layout_spectrum: 0.99211
+typography_spectrum: 0.36971
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.4047624401282519
+  brandStrength: 0.4375
   lightness: 0.9651299631223083
   saturation: 0.19625169434584677
   rhythmicContrast: 0.5319801168516278
