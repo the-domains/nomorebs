@@ -1,0 +1,28 @@
+name: nomorebs
+favicon: null
+layout_spectrum: 0.19183739670552313
+typography_spectrum: 0.8686932960990816
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4047624401282519
+  lightness: 0.9651299631223083
+  saturation: 0.19625169434584677
+  rhythmicContrast: 0.5319801168516278
+purpose: []
